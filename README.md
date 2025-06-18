@@ -1,7 +1,7 @@
-# ChatCenie 🧠💬
+# ChatGenie 🧠💬
 
-**ChatCenie** is an intelligent, general-purpose AI chatbot designed for natural, human-like conversations.  
-Whether it's casual talk, information lookup, or creative assistance, ChatCenie delivers fast and friendly responses using cutting-edge AI models.
+**ChatGenie** is an intelligent, general-purpose AI chatbot designed for natural, human-like conversations.  
+Whether it's casual talk, information lookup, or creative assistance, ChatGenie delivers fast and friendly responses using cutting-edge AI models.
 
 ---
 
