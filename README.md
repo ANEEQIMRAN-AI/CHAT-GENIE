@@ -30,6 +30,6 @@ Whether it's casual talk, information lookup, or creative assistance, ChatGenie 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chatcenie.git
-cd chatcenie
+git clone https://github.com/your-username/chatgenie.git
+cd chatgenie
 
